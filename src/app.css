@@ -1,0 +1,10 @@
+html {
+  background-color: rgb(48, 48, 48);
+  color: rgb(133, 173, 160);
+}
+.container {
+  border: 1px rgb(150, 150, 150) solid;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 10px;
+}
